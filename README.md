@@ -1,15 +1,17 @@
-# INET4031 PHP Crude CRUD App (MariaDB/MySQL DB Version)
+# Three-Tier Data-Driven Web Application
 
-## Demonstrates a basic Dynamic HTML Application using PHP
+This repository contains the source code and setup instructions for a simple three-tier data-driven web application. The application demonstrates a standard architecture comprising a web tier, an application tier, and a database tier, implemented using LAMP stack components.
 
-It doesn't get much more crude than this, but is a great starting point for understanding how **dynamic data-driven web applications** work.
+Overview
 
-Understand how this one works, and more modern/advanced/complex web development frameworks, won't seem so mysterious.
+The project involves the following:
 
-This application assumes the MySQL database has certain users added and an "employees" database based on a sample dataset. Additional details will be provided in class.
+Setting up and configuring virtual machines.
 
-The "credentials.php" file above has the details of the MySQL database connection.  You will need to modify this file to work for your configuration
+Installing and configuring a LAMP (Linux, Apache, MySQL, PHP) stack.
 
-Obviously everything is in the open and unsecure here.
+Managing database credentials and user accounts.
 
-...and obviously change the credentials too...
+Deploying and running a web application with a preloaded database.
+
+Managing code using GitHub.
